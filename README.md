@@ -14,8 +14,8 @@ OhManMyBad - Thanks for sharing the source code of your GTA V Teleportation.
 
 # Requirements
 
-SCOCL (to compile missions - Download: http://www.dev-c.com/gtaiv/scocl/)
-GTA IV 1.0.7.0 :) 
+- SCOCL (to compile missions - Download: http://www.dev-c.com/gtaiv/scocl/)
+- GTA IV 1.0.7.0
 
 # Installation
 
