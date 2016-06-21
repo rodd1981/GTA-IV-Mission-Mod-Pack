@@ -2,6 +2,13 @@
 
 Source code for the GTA IV Mission Mod Pack V2.0 (it also comes with an API library coded by myself - very useful for those wanting to create new missions).
 
+# Special thanks
+
+Alex Blade - SCOCL (This mod wouldn't exist without this great tool).
+Cosy       - Thanks for sharing the source code of your mini-menu (it was really useful to improve the UI of the missions).
+Skorpro    - Thanks for sharing the source code of your ASI SCO Loader.
+OhManMyBad - Thanks for sharing the source code of your GTA V Teleportation.
+
 # Installation
 
 Create a new directory and extract all files.
