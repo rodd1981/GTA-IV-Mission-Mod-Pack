@@ -28,10 +28,6 @@ Compile all missions: scoall
 - Source files should be sitting on the root directory
 - SCO version will be written in PC directory
 
-# Requirements
-
-SCOCL (already added to the repo).
-
 # License
 
 As of November 1, 2015 Chat API is licensed under the GPLv3+: http://www.gnu.org/licenses/gpl-3.0.html.
