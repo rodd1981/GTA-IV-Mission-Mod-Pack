@@ -21,3 +21,4 @@ As of November 1, 2015 Chat API is licensed under the GPLv3+: http://www.gnu.org
 # Misc
 
 - Pull requests and improvements are always welcome
+- Let me know if you port this to ScriptHook (I am in the hope that someone does that - preferrably aiming for a Mission Creator, similar to GTA V's).
