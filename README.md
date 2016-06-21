@@ -12,9 +12,15 @@ Skorpro    - Thanks for sharing the source code of your ASI SCO Loader.
 
 OhManMyBad - Thanks for sharing the source code of your GTA V Teleportation. 
 
+# Requirements
+
+SCOCL (to compile missions - Download: http://www.dev-c.com/gtaiv/scocl/)
+
 # Installation
 
-Create a new directory and extract all files.
+- Create a new directory and extract all files.
+- Use SCOONE (to compile a single C source file) or SCOALL (to compile all C source files)
+- Make sure you have SCOCL set on your PATH environment variable before compiling the sources
 
 # Usage
 
