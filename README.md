@@ -6,6 +6,14 @@ Source code for the GTA IV Mission Mod Pack V2.0 (it also comes with an API libr
 
 Create a new directory and extract all files.
 
+# Usage
+
+Compile new missions: scoone <mission.c>
+Compile all missions: scoall
+
+- Source files should be sitting on the root directory
+- SCO version will be written in PC directory
+
 # Requirements
 
 SCOCL (already added to the repo).
