@@ -1,4 +1,4 @@
-# GTA-IV-Mission-Pack (for DEVS only!)
+# GTA IV Mission Mod Pack (Source Code - for DEVS only!)
 
 Source code for the GTA IV Mission Mod Pack V2.0 (it also comes with an API library coded by myself - very useful for those wanting to create new missions).
 
@@ -8,7 +8,7 @@ Create a new directory and extract all files.
 
 # Requirements
 
-SCOCL (download here: )
+SCOCL (already added to the repo).
 
 # License
 
