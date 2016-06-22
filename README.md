@@ -65,7 +65,7 @@ Check source codes to understand how to use these functions properly
 
 # License
 
-As of November 1, 2015 Chat API is licensed under the GPLv3+: http://www.gnu.org/licenses/gpl-3.0.html.
+This mod is licensed under the GPLv3+: http://www.gnu.org/licenses/gpl-3.0.html.
 
 # Legal
 
